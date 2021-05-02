@@ -1,11 +1,13 @@
 # HEY
 
 Meu nome é Paola Francine, e estou iniciando na área da tecnologia.
-Estou focada na parte de Front-end, aprendendo HTML,CSS e JS.
+Estou focada na parte de Front-end, aprendendo HTML, CSS e JS.
+
 
 A cada dia que passa me descubro mais apaixonada por tecnologia! ❤️
 
-### "Dê um passo de cada vez e nunca pare de caminhar."💻
+
+#### "Dê um passo de cada vez e nunca pare de caminhar."💻
 
 -📍 Recife-PE
 
