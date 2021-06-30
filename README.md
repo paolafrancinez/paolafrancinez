@@ -1,7 +1,6 @@
 # HEY 🧡
 
-Meu nome é Paola Francine, e estou iniciando na área da tecnologia.
-Estou focada na parte de Front-end, aprendendo HTML, CSS e JS. 🧠
+Meu nome é Paola Francine, e estou iniciando na área da tecnologia.🧠
 
 
 A cada dia que passa me descubro mais apaixonada por tecnologia! 👩‍💻🥰
