@@ -1,6 +1,7 @@
 # HEY 🧡
 
 Meu nome é Paola Francine, e estou iniciando na área da tecnologia.🧠
+Atualmente estou em transição de carreira.
 
 
 A cada dia que passa me descubro mais apaixonada por tecnologia! 👩‍💻🥰
