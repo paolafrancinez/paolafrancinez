@@ -1,6 +1,6 @@
 # HEY 🧡
 
-Meu nome é Paola Francine, e atuo na área de testes de softaew como QA.
+Meu nome é Paola Francine, e atuo na área de testes de software como QA.
 
 
 ### Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir! Steve Jobs 👩‍💻🥰
