@@ -1,16 +1,12 @@
 # HEY 🧡
 
-Meu nome é Paola Francine, e estou iniciando na área da tecnologia.🧠
-
-Atualmente estou em transição de carreira.
+Meu nome é Paola Francine, e atuo na área de testes de softaew como QA.
 
 
-A cada dia que passa me descubro mais apaixonada por tecnologia! 👩‍💻🥰
+### Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir! Steve Jobs 👩‍💻🥰
 
 
-### "Dê um passo de cada vez e nunca pare de caminhar."💻
-
--📍 Recife-PE 
+-📍 Ribeirão Preto - SP 
 
 
 Me encontre nas redes sociais!
